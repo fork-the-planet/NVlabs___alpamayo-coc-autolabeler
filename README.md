@@ -46,9 +46,7 @@ factors in the scene to the ego vehicle's intended behavior.
 This autolabeling pipeline is related to the Chain-of-Causation reasoning
 pipeline described in
 [Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable
-Autonomous Driving in the Long Tail](https://arxiv.org/abs/2511.00088). See the
-[NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) repository for the
-Alpamayo model release.
+Autonomous Driving in the Long Tail](https://arxiv.org/abs/2511.00088).
 
 ## Runtime Requirements
 
@@ -545,7 +543,7 @@ If you use this autolabeling pipeline in your research, please cite:
 
 ```bibtex
 @article{nvidia2025alpamayo,
-      title={{Alpamayo-1}: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail},
+      title={{Alpamayo 1}: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail},
       author={NVIDIA and Yan Wang and Wenjie Luo and Junjie Bai and Yulong Cao and Tong Che and Ke Chen and Yuxiao Chen and Jenna Diamond and Yifan Ding and Wenhao Ding and Liang Feng and Greg Heinrich and Jack Huang and Peter Karkus and Boyi Li and Pinyi Li and Tsung-Yi Lin and Dongran Liu and Ming-Yu Liu and Langechuan Liu and Zhijian Liu and Jason Lu and Yunxiang Mao and Pavlo Molchanov and Lindsey Pavao and Zhenghao Peng and Mike Ranzinger and Ed Schmerling and Shida Shen and Yunfei Shi and Sarah Tariq and Ran Tian and Tilman Wekel and Xinshuo Weng and Tianjun Xiao and Eric Yang and Xiaodong Yang and Yurong You and Xiaohui Zeng and Wenyuan Zhang and Boris Ivanovic and Marco Pavone},
       year={2025},
       journal={arXiv preprint arXiv:2511.00088},
