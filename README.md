@@ -5,8 +5,23 @@ scenarios. It derives meta-actions, which are high-level categorical
 descriptions of ego motion, and chain-of-causation labels, which connect causal
 factors in the scene to the ego vehicle's intended behavior.
 
+## Support
+
+📣 **Usage questions and discussion**: please join us on the
+[Alpamayo NV Developer Forum](https://forums.developer.nvidia.com/c/autonomous-vehicles/alpamayo/766).
+
+🐛 **Code-level bugs, documentation issues, and feature requests**: file a
+[GitHub issue](../../issues/new/choose) using the appropriate template (Bug
+report, Documentation request, or Feature request). The relevant NVIDIA
+responder is auto-assigned via the `assignees:` field on the template.
+
+🚨 **Security vulnerabilities**: please use
+[NVIDIA's Vulnerability Disclosure Program](https://app.intigriti.com/programs/nvidia/nvidiavdp/detail).
+Do not file security issues publicly here.
+
 ## Table of Contents
 
+- [Support](#support)
 - [Workflow Overview](#workflow-overview)
 - [Paper](#paper)
 - [Runtime Requirements](#runtime-requirements)
