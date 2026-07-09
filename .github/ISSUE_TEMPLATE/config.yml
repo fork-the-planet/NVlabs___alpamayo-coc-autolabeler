@@ -1,0 +1,20 @@
+# .github/ISSUE_TEMPLATE/config.yml — Alpamayo family
+# GitHub Issues is reserved for code-level bugs, documentation requests, and
+# feature requests. Usage questions and security reports use the contact links
+# below.
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Submit a question (usage, how-to)
+    url: https://forums.developer.nvidia.com/c/autonomous-vehicles/alpamayo/766
+    about: >
+      For usage questions and discussion, post on the Alpamayo NV Developer
+      Forum category. GitHub Issues is reserved for code-level bugs,
+      documentation fixes, and feature requests.
+
+  - name: 🚨 Report a security vulnerability — NVIDIA Intigriti VDP
+    url: https://app.intigriti.com/programs/nvidia/nvidiavdp/detail
+    about: >
+      Please do NOT file security issues publicly on GitHub. Use the NVIDIA
+      Vulnerability Disclosure Program form on Intigriti.
